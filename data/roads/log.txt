@@ -1,0 +1,8 @@
+Warning 6: Normalized/laundered field name: 'description' to 'descriptio'
+Warning 6: Field timestamp create as date field, though DateTime requested.
+Warning 6: Field begin create as date field, though DateTime requested.
+Warning 6: Field end create as date field, though DateTime requested.
+Warning 6: Normalized/laundered field name: 'altitudeMode' to 'altitudeMo'
+Warning 6: Normalized/laundered field name: 'gx_media_links' to 'gx_media_l'
+Warning 1: Value '<img src="https://lh5.googleusercontent.com/proxy/qdS7m70JOG5rpAR3XSGzVvZGUDdM6UmceMPu16O8NQQvPghmaXr3yOQS5SRMs-mOgm0V5VVXjXxo8Wn9uG3eUH6V7w2bX9-9uonXsl6-Ixlx1VKW" height="200" width="auto" /><br><br>COMO FUNCIONA<br>De acordo com o final de placa e dia da semana (veja a Tabela ), os veículos não poderão circular nas ruas e avenidas internas ao chamado minianel viário, inclusive, das 7 às 10 horas e das 17 às 20 horas.<br><br><img src="https://lh3.googleusercontent.com/proxy/lsU92PlRQZ7cwLjQ4za1AYRvSageYoHN-IGsMPTH5OIQd6nPTKWhaLSV9DaWXNpyRl2acEb25kbIj4ZwyJlJgpD28naTHhvU1Ol2Oj2XfjbZo0tR" height="200" width="auto" />' of field descriptio has been truncated to 254 characters.
+This warning will not be emitted any more for that layer.
