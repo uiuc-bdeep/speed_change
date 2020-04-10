@@ -1,0 +1,7 @@
+Info: 		Shapefile of S�o Paulo road segments wich had speed limit reduced in 2015
+
+Source:		Traffic Agency press releases (http://www.cetsp.com.br/noticias)
+
+Region:		S�o Paulo City
+
+Notes:		Shapefile was created manually based on the information available on the press releases
