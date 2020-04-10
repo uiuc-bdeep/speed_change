@@ -1,0 +1,16 @@
+victim_status,severity, cost_victim 
+unharmed,no victims,1086.14
+unharmed,with victims,4110.6
+unharmed,with fatalities,1839.94
+lightly injured,no victims,6456.33
+lightly injured,with victims,8469.44
+lightly injured,with fatalities,8635.77
+heavily injured,no victims,22421.06
+heavily injured,with victims,125133.91
+heavily injured,with fatalities,141155.96
+dead,no victims,3862030.46
+dead,with victims,3862030.46
+dead,with fatalities,3862030.46
+injured,no victims,14438.7
+injured,with victims,66801.68
+injured,with fatalities,74895.87
