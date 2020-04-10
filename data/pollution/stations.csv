@@ -1,0 +1,63 @@
+id,stationname,tr_st,lat,long
+269,Capão Redondo ,co1,-23.668251,-46.780158
+263,Carapicuíba ,co1,-23.531165,-46.835718
+92,Diadema ,co1,-23.685948,-46.611581
+264,Guarulhos-Paço Municipal ,co1,-23.454991,-46.518186
+279,Guarulhos-Pimentas ,co1,-23.439822,-46.410079
+97,Itaquera ,co1,-23.582754,-46.472635
+65,Mauá ,co1,-23.668844,-46.465838
+287,Mogi das Cruzes ,co1,-23.517799,-46.187179
+96,N.Senhora do Ó ,co1,-23.48002,-46.69197
+120,Osasco ,co1,-23.526757,-46.792086
+98,Parelheiros ,co1,-23.776249,-46.696962
+284,Pico do Jaraguá ,co1,-23.458253,-46.766823
+100,S.André-Capuava ,co1,-23.639777,-46.49162
+254,S.André-Paço Municipal ,co1,-23.656976,-46.530911
+272,S.Bernardo-Centro ,co1,-23.698553,-46.54637
+102,S.Bernardo-Paulicéia ,co1,-23.666649,-46.582197
+86,São Caetano do Sul ,co1,-23.618411,-46.556301
+103,Taboão da Serra ,co1,-23.609308,-46.758288
+105,Americana ,co2,,
+107,Araçatuba ,co2,,
+106,Araraquara ,co2,,
+108,Bauru ,co2,,
+89,Campinas-Centro ,co2,,
+276,Campinas-Taquaral ,co2,,
+275,Campinas-V.União ,co2,,
+248,Catanduva ,co2,,
+87,Cubatão-Centro ,co2,,
+66,Cubatão-V.Parisi ,co2,,
+119,Cubatão-Vale do Mogi ,co2,,
+289,Guaratinguetá ,co2,,
+259,Jacareí ,co2,,
+110,Jaú ,co2,,
+109,Jundiaí ,co2,,
+281,Limeira ,co2,,
+111,Marília ,co2,,
+117,Paulínia ,co2,,
+112,Paulínia-Sul ,co2,,
+113,Piracicaba ,co2,,
+114,Presidente Prudente ,co2,,
+288,Ribeirão Preto-Centro ,co2,,
+88,S.José Campos ,co2,,
+277,S.José Campos-Jd.Satelite ,co2,,
+278,S.José Campos-Vista Verde ,co2,,
+273,Santa Gertrudes ,co2,,
+258,Santos ,co2,,
+260,Santos-Ponta da Praia ,co2,,
+116,São José do Rio Preto ,co2,,
+67,Sorocaba ,co2,,
+256,Tatuí ,co2,,
+280,Taubaté ,co2,,
+270,Marg.Tietê-Pte Remédios ,tr1,-23.520347,-46.747197
+99,Pinheiros ,tr1,-23.561441,-46.70202
+64,Santo Amaro ,tr1,-23.654966,-46.710002
+91,Cerqueira César ,tr2,-23.553543,-46.672703
+95,Cid.Universitária-USP-Ipen ,tr1,-23.566227,-46.737457
+73,Congonhas ,tr2,-23.616318,-46.663455
+83,Ibirapuera ,tr2,-23.591838,-46.660682
+262,Interlagos ,co1,-23.680363,-46.67505
+266,Itaim Paulista ,co1,-23.501597,-46.420715
+85,Mooca ,tr2,-23.549694,-46.600418
+72,Parque D.Pedro II ,tr2,-23.544841,-46.627672
+63,Santana ,tr1,-23.505992,-46.628971
